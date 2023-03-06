@@ -1,0 +1,231 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Montserrat:wght@1,500&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+.flex{
+    display: flex;
+}
+.left p{
+    margin-left: 50px;
+    font-size: 36px;
+    font-family: gloock;
+}
+.center{
+    padding: 4px;
+}
+.container{
+    margin: auto;
+    background-color:#313030;
+    color: white;
+    width: 100%;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 30px;
+}
+
+nav a{
+    text-decoration: none;
+}
+nav a:link{
+    color:white;
+}
+nav a:visited{
+    color: white;
+}
+
+nav a:hover{
+    color:cyan;
+    
+}
+.container{
+    position: fixed;
+
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.ul{
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 16px;
+}
+.right img{
+    height: 30px;
+    width: 30px;
+    margin-right: 30px;
+}
+body{
+    margin: 0;
+}
+
+.fp{
+    background-color: #313030;
+}
+
+.gret{
+    width:60%;
+    margin-top: 20vh;
+    margin-left: 3vw;
+    color: white;
+    font-size: 30px;
+}
+
+.quote{
+    display: flex;
+    font-family: 'Shantell Sans', cursive;
+    width: 70%;
+    margin-top: 3vh;
+    margin-left: 3vw;
+    margin-bottom: 50px;
+    font-size: 50px;
+    color: cyan;
+}
+.rightImg{
+    padding-top: 150px;
+    float: right;
+    margin-right: 5vw;
+    margin-bottom: 50px;
+    height: 400;
+}
+img{
+    border-radius: 2px;
+}
+.sec2{
+    
+    background-color: white;
+}
+.heading{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: #313030;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ImgDiv{
+    
+}
+.imageArtV{
+    height: 200;
+    width: 150;
+    
+}
+.imageArtH{
+    height: 200;
+    width: 250;
+}
+#verti{
+    height: 250;
+}
+#hori{
+    width:300
+}
+.Imgcontent{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 20;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+}
+
+.aboutSec{
+    padding-top: 30px;
+    margin-top: 30px;
+    background-color: rgb(215, 215, 215);
+}
+
+.bgAbout{
+    margin: 0px;
+    padding-left: 80px;
+    padding-bottom: 60px;
+    margin-top: 0;
+    height: 60vh;
+    width: 30vw;
+}
+.About{
+    padding-left: 800;
+    padding-top: 10px;
+    text-align: right;
+    font-size: 40;
+    padding-right: 300px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.AboutMe{
+    padding-top: 50px;
+    padding-right: 50px;
+    margin-top: 0px;
+    font-size: 30;
+    display: flex;
+    width: 45%;
+    text-align: left;
+    float:right;
+}
+.contact{
+    background-color: #313030;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.touch{
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    color: azure;
+    padding-bottom: 20px;
+}
+.semi{
+    padding-top: 0px;
+    display: flex;
+    font-size: 50px;
+    color: cyan;
+}
+.conLinkL{
+    text-decoration: none;
+    font-size: 20px;
+    color: cyan;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+.conLinkM{
+    text-decoration: none;
+    font-size: 20px;
+    color: cyan;
+    padding-right: 20vw;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+.conLinkR{
+    text-decoration: none;
+    font-size: 20px;
+    color: cyan;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+.logolink{
+    width:30px;
+    height:30px;
+    padding-left: 20vw;
+}
+.logoInsta{
+    width:30px;
+    height:30px;
+}
+.logoMail{
+    width:40px;
+    height:30px;
+}
